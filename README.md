@@ -1,4 +1,4 @@
-# Dart Console Tic-Tac-Toe-Game-
+# Dart Console Tic-Tac-Toe-Game
 
 This is a simple two-player Tic-Tac-Toe game built using Dart for the command line.  
 Players take turns to mark X or O on a 3x3 grid until one wins or the game ends in a draw.
