@@ -43,8 +43,8 @@ Upon running the game, you will be prompted to choose your symbol (X or O) and t
 ## 📁 Tic-Tac-Toe-Game
 
 
-lib/main.dart    # Source code of the game
-README.md        # Instructions and game info
+- lib/main.dart    # Source code of the game
+-README.md        # Instructions and game info
 
 
 ## 👤 Author
