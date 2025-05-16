@@ -40,12 +40,11 @@ dart --version
 Upon running the game, you will be prompted to choose your symbol (X or O) and take turns by entering grid positions (1-9).
 
 
-## 📁 Project Structure
+## 📁 Tic-Tac-Toe-Game
 
 
-Tic_Tac_Toe/
-├── main.dart        # Source code of the game
-└── README.md        # Instructions and game info
+lib/main.dart    # Source code of the game
+README.md        # Instructions and game info
 
 
 ## 👤 Author
